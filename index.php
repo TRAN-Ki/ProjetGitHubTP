@@ -42,7 +42,7 @@
                         
                     </div>
                     <div class="signup-image">
-                        <figure><img src="images/signup-image.jpg" alt="sing up image(erreur)"></figure>
+                        <figure><img src="images/signup-image.jpg" alt="Inscrivez-vous image"></figure>
                         <a href="#" class="signup-image-link">Se déconnecter</a>
                     </div>
                 </div>
@@ -53,7 +53,7 @@
     </div>
 
     <!-- JS -->
-    <script src="assets/vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/jquery/jquery.min.js"></script>
     <script src="assets/js/main.js"></script>
 </body><!-- This templates was made by Colorlib (https://colorlib.com) -->
 </html>
